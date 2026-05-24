@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Futuristic Mobile Auth Experience",
+  "description": "A premium, cinematic landing page for mobile and desktop focused app featuring a multi-step 3D glassmorphic registration, secure cloud sync, JWT auth with MFA, and an interactive security dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
